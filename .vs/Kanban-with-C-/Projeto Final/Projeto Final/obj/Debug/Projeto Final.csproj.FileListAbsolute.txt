@@ -1,0 +1,10 @@
+C:\Users\jhona\source\repos\jhonattan-Meira-Santos\Kanban-with-C-\.vs\Kanban-with-C-\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe.config
+C:\Users\jhona\source\repos\jhonattan-Meira-Santos\Kanban-with-C-\.vs\Kanban-with-C-\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe
+C:\Users\jhona\source\repos\jhonattan-Meira-Santos\Kanban-with-C-\.vs\Kanban-with-C-\Projeto Final\Projeto Final\bin\Debug\Projeto Final.pdb
+C:\Users\jhona\source\repos\jhonattan-Meira-Santos\Kanban-with-C-\.vs\Kanban-with-C-\Projeto Final\Projeto Final\obj\Debug\Projeto Final.csprojAssemblyReference.cache
+C:\Users\jhona\source\repos\jhonattan-Meira-Santos\Kanban-with-C-\.vs\Kanban-with-C-\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Form1.resources
+C:\Users\jhona\source\repos\jhonattan-Meira-Santos\Kanban-with-C-\.vs\Kanban-with-C-\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Properties.Resources.resources
+C:\Users\jhona\source\repos\jhonattan-Meira-Santos\Kanban-with-C-\.vs\Kanban-with-C-\Projeto Final\Projeto Final\obj\Debug\Projeto Final.csproj.GenerateResource.cache
+C:\Users\jhona\source\repos\jhonattan-Meira-Santos\Kanban-with-C-\.vs\Kanban-with-C-\Projeto Final\Projeto Final\obj\Debug\Projeto Final.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\jhonattan-Meira-Santos\Kanban-with-C-\.vs\Kanban-with-C-\Projeto Final\Projeto Final\obj\Debug\Projeto Final.exe
+C:\Users\jhona\source\repos\jhonattan-Meira-Santos\Kanban-with-C-\.vs\Kanban-with-C-\Projeto Final\Projeto Final\obj\Debug\Projeto Final.pdb
